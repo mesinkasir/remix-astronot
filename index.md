@@ -5,9 +5,10 @@ A starter template remix with astronot css.
 Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
 
 Play video : [https://www.youtube.com/watch?v=itGEYtqoQ18](https://www.youtube.com/watch?v=itGEYtqoQ18)
+
 ---------------------
 
-<center><img src="https://github.com/mesinkasir/remix-astronot/raw/main/remix.png"/></center>
+<center><img src="https://github.com/mesinkasir/remix-astronot/raw/main/remix.png"></center>
 
 ![remix starter template website themes](https://github.com/mesinkasir/remix-astronot/raw/main/astronot1.png)
 
