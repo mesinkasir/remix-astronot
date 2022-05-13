@@ -9,11 +9,11 @@ Play video : [https://www.youtube.com/watch?v=itGEYtqoQ18](https://www.youtube.c
 
 <center><img src="remix.png"/></center>
 
-![remix starter template website themes](astronot1.png)
+![remix starter template website themes](https://github.com/mesinkasir/remix-astronot/raw/main/astronot1.png)
 
 Home Page
 
-![remix starter template website themes](astronot2.png)
+![remix starter template website themes](https://github.com/mesinkasir/remix-astronot/raw/main/astronot2.png)
 
 Welcome page
 
