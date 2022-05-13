@@ -17,7 +17,7 @@ Welcome page
 
 ---------------------
 
-`https://github.com/mesinkasir/remix-astronot.git`
+`git clone https://github.com/mesinkasir/remix-astronot.git`
 
 `npm install`
 
