@@ -3,6 +3,8 @@
 A starter template remix with astronot css.
 
 Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
+
+Play video : [https://www.youtube.com/watch?v=itGEYtqoQ18](https://www.youtube.com/watch?v=itGEYtqoQ18)
 ---------------------
 
 <center><img src="remix.png"/></center>
@@ -30,3 +32,5 @@ Welcome page
 `npm start`
 
 Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
+
+Play video : [https://www.youtube.com/watch?v=itGEYtqoQ18](https://www.youtube.com/watch?v=itGEYtqoQ18)
