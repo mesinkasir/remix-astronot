@@ -17,4 +17,16 @@ Welcome page
 
 ---------------------
 
+`https://github.com/mesinkasir/remix-astronot.git`
+
+`npm install`
+
+`npm run dev`
+
+`localhost:3000`
+
+`npm build`
+
+`npm start`
+
 Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
