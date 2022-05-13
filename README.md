@@ -1,6 +1,6 @@
 # Welcome to Remix Astronot CSS
 
-A starter template remix with astronos css.
+A starter template remix with astronot css.
 
 Doc : [https://astronot.axcora.com](https://astronot.axcora.com)
 ---------------------
